@@ -1,16 +1,13 @@
 # animated_login
 
-A new Flutter project.
+A new Flutter project using Rive animations.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot 2024-05-21 000249](https://github.com/naidu199/animated-login-flutter/assets/141550407/bc0af66e-8943-4b84-bf8e-1efe2267d5b2)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2024-05-21 000259](https://github.com/naidu199/animated-login-flutter/assets/141550407/fae2dd6f-e81a-4b0d-820e-1f548349b501)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/naidu199/animated-login-flutter/assets/141550407/9a2e1de6-7791-447b-a396-39e9047fda38
+
