@@ -1,6 +1,6 @@
 # animated_login
 
-A new Flutter project using Rive animations.
+A Flutter login page using Rive animations.
 
 
 
